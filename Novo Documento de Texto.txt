@@ -1,0 +1,3 @@
+// dentro do  target="_blank" abre nova aba para o l ink adicionado, para adicionar l ink externo não precisa do #
+//# significa dar nome para uma id 
+//. quando é criada uma class no h tml 

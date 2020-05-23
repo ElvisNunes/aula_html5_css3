@@ -1,0 +1,22 @@
+body {
+    background: rgb(177, 171, 171);
+    margin-left: 50px;
+    margin-right: 200px;
+}
+header{
+    margin-top: 70px;
+}
+h1 {color: red;
+    font-family: fantasy;
+
+}
+h2{
+    font-family: fantasy;
+}
+
+p{
+    font-size: 18px;
+}
+img{
+    margin-bottom: 30px;
+}
